@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @barakatokikiola
-- 👀 I solve problems using JavaScript
-- 🌱 Bootstrap | React JS | Angular | Nextjs | TailwindCSS | Netlify | TypeScript | SCSS
+- 👀 I solve problems using JavaScript. AI enthusiast
+- 🌱 Bootstrap | React JS | Angular | Nextjs | TailwindCSS | Netlify | TypeScript | SCSS | **Python**
 - 💞️ I’m looking to collaborate on open source JS projects
 - 📫 How to reach me (https://www.linkedin.com/in/barakatokikiola/)
 
