@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @barakatokikiola
-- 👀 I solve problems using JavaScript. AI enthusiast
-- 🌱 Bootstrap | React JS | Angular | Nextjs | TailwindCSS | Netlify | TypeScript | SCSS | **Python**
-- 💞️ I’m looking to collaborate on open source JS projects
+- 👀 I am a Frontend Software Engineer and AI enthusiast
+- 🌱React JS | Nextjs | Angular | TailwindCSS | Netlify | TypeScript | SCSS | **Python**
+- 💞️ I’m looking to collaborate on open source Frontend amd Machine Learning projects
 - 📫 How to reach me (https://www.linkedin.com/in/barakatokikiola/)
 
 <!---
