@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @barakatokikiola
 - 👀 I am a Frontend Software Engineer and AI enthusiast
-- 🌱React JS | Nextjs | Angular | TailwindCSS | Netlify | TypeScript | SCSS | **Python**
+- 🌱React JS | Nextjs | Angular | TailwindCSS | Netlify | TypeScript | SCSS | **Python** | Machine Learning
 - 💞️ I’m looking to collaborate on open source Frontend and Machine Learning projects
 - 📫 How to reach me (https://www.linkedin.com/in/barakatokikiola/)
 
